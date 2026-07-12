@@ -35,6 +35,7 @@ _03.2026 — настоящее время_
 ## Технологии
 
 **Основные:** Python · SQL · Pandas · NumPy · Matplotlib · MNE · Jupyter Notebook 
+
 **Машинное обучение:** scikit-learn · SciPy · MLflow  
 **Базы данных:** PostgreSQL · MySQL · SQLite  
 **Data Engineering и инструменты:** PySpark · Airflow · Docker · Git  
