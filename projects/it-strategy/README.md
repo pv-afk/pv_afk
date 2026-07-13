@@ -39,16 +39,5 @@ Python, pandas, NumPy, Matplotlib, seaborn, Jupyter Notebook.
 - `digital_maturity_survey.csv` — результаты опроса;
 - `ПРАКТИЧЕCКАЯ РАБОТА 3.pdf` — оформленный отчёт.
 
-## Запуск
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-jupyter lab strategy.ipynb
-```
-
-## Результат и ограничения
-
-Проект формирует карту зрелости, рейтинг инвестиционных приоритетов и набор инициатив для подразделений. Самооценки сотрудников могут быть субъективны, поэтому стратегические решения желательно дополнять интервью, процессными метриками и оценкой экономического эффекта.
 
