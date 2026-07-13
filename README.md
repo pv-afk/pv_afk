@@ -42,6 +42,16 @@ _03.2026 — настоящее время_
 
 **GenAI и LLM:** OpenAI-compatible API · RAG · Embeddings · FAISS/ChromaDB · LangChain/LangGraph · FastAPI · Pydantic · pytest
 
+## Проекты
+
+| Проект | Что сделано | Основные инструменты |
+|---|---|---|
+| [Прогноз средней заработной платы](projects/average-salary/) | Анализ временного ряда и прогноз на 36 месяцев с помощью SARIMAX | pandas, statsmodels, pmdarima |
+| [Кредитный скоринг](projects/credit-scoring/) | Подготовка банковских данных, балансировка классов и сравнение Logistic Regression с XGBoost | scikit-learn, imbalanced-learn, XGBoost |
+| [Портфель ИТ-проектов](projects/it-portfolio/) | Ранжирование инициатив по ROI, риску и стратегической ценности при бюджетном ограничении | pandas, SciPy, Matplotlib |
+| [Цифровая зрелость и ИТ-стратегия](projects/it-strategy/) | Оценка зрелости подразделений и формирование инвестиционных приоритетов | pandas, seaborn |
+| [Прогнозирование затрат](projects/cost-prediction/) | Анализ исполнения ИТ-бюджета и прогноз расходов статистическими и ML-моделями | statsmodels, scikit-learn, XGBoost |
+
 
 
 ## Образование
@@ -70,4 +80,3 @@ _03.2026 — настоящее время_
 - phone: +7-(925)-077-23-98
 - mail: chirkin_07.p@mail.ru / p.chirkin07@gmail.com
 ---
-
