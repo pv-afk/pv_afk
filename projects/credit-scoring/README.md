@@ -35,13 +35,7 @@ Python, pandas, NumPy, seaborn, scikit-learn, imbalanced-learn, XGBoost, Jupyter
 - `credit_scoring.html` — статическая версия ноутбука с сохранёнными результатами;
 - `credit_risk_file_1.csv`, `credit_risk_file_2.csv` — исходные таблицы.
 
-## Запуск
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-jupyter lab credit_scoring.ipynb
 ```
 
 
