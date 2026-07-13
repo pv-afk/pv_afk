@@ -1,16 +1,16 @@
 # ML/AI
 
-Небольшой практический набор базовых задач для подготовки к junior-позициям ML/AI/LLM Engineer. Материалы организованы как Python-проект: каждая тема вынесена в отдельный модуль, все эксперименты воспроизводимы, а основные сценарии покрыты тестами.
+Небольшой практический набор базовых задач для подготовки к junior-позициям ML/AI/LLM Engineer. Материалы организованы как последовательность самостоятельных Jupyter Notebook-файлов: от линейных моделей до поиска контекста для LLM.
 
 ## Что входит в проект
 
-| Модуль | Задача | Основные навыки |
+| Ноутбук | Задача | Основные навыки |
 |---|---|---|
-| `regression.py` | Прогноз числового показателя | train/test split, Pipeline, масштабирование, RidgeCV, MAE, RMSE, R² |
-| `classification.py` | Выявление злокачественных опухолей | Logistic Regression, дисбаланс классов, F1, ROC-AUC |
-| `ensembles.py` | Сравнение деревьев и ансамблей | Decision Tree, Random Forest, Gradient Boosting, cross-validation |
-| `dimensionality.py` | Сжатие признакового пространства | StandardScaler, PCA, explained variance, классификация |
-| `text_retrieval.py` | Поиск релевантного текстового фрагмента | TF-IDF, N-граммы, cosine similarity, базовая retrieval-логика для RAG |
+| `1.1. Линейная регрессия.ipynb` | Прогноз числового показателя | train/test split, Pipeline, масштабирование, RidgeCV, MAE, RMSE, R² |
+| `1.2. Бинарная классификация.ipynb` | Выявление злокачественных опухолей | Logistic Regression, дисбаланс классов, F1, ROC-AUC |
+| `1.3. Ансамбли моделей.ipynb` | Сравнение деревьев и ансамблей | Decision Tree, Random Forest, Gradient Boosting, cross-validation |
+| `2.1. Метод главных компонент.ipynb` | Сжатие признакового пространства | StandardScaler, PCA, explained variance, классификация |
+| `3.1. Поиск контекста для LLM.ipynb` | Поиск релевантного текстового фрагмента | TF-IDF, N-граммы, cosine similarity, базовая retrieval-логика для RAG |
 
 ## Почему выбраны эти темы
 
@@ -20,16 +20,11 @@
 
 ```text
 ML-AI/
-├── src/
-│   ├── regression.py
-│   ├── classification.py
-│   ├── ensembles.py
-│   ├── dimensionality.py
-│   ├── text_retrieval.py
-│   └── run_all.py
-├── tests/
-│   └── test_foundations.py
-├── pyproject.toml
+├── 1.1. Линейная регрессия.ipynb
+├── 1.2. Бинарная классификация.ipynb
+├── 1.3. Ансамбли моделей.ipynb
+├── 2.1. Метод главных компонент.ipynb
+├── 3.1. Поиск контекста для LLM.ipynb
 ├── requirements.txt
 └── SOURCE.md
 ```
@@ -40,14 +35,10 @@ ML-AI/
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python -m src.run_all
+jupyter lab
 ```
 
-Проверка проекта:
-
-```bash
-pytest
-```
+После запуска откройте нужный ноутбук и выполните ячейки сверху вниз.
 
 ## Данные
 
@@ -70,4 +61,4 @@ pytest
 - добавить подбор гиперпараметров через `RandomizedSearchCV`;
 - заменить TF-IDF на sentence embeddings и подключить векторную базу;
 - обернуть retrieval-модуль в FastAPI;
-- добавить Docker и CI-проверку тестов.
+- добавить Docker и CI-проверку исполнения ноутбуков.
