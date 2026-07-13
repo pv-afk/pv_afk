@@ -30,10 +30,7 @@
 
 Python, pandas, Matplotlib, seaborn, SciPy, statsmodels, pmdarima, Jupyter Notebook.
 
-## Структура
 
-- `average_salary_rus.ipynb` — исследование, моделирование и визуализация;
-- `salary.csv` — исходный временной ряд.
 
 
 
