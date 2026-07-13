@@ -51,6 +51,7 @@ _03.2026 — настоящее время_
 | [Прогнозирование затрат](projects/cost-prediction/) | Анализ исполнения ИТ-бюджета и прогноз расходов статистическими и ML-моделями | statsmodels, scikit-learn, XGBoost |
 | [Анализ аптечных товаров](projects/pharmacy-analysis/) | Сравнение цен и сопоставление товаров параметрическим методом и N-граммами | pandas, seaborn, matplotlib-venn |
 | [ML/AI](ML-AI/) | Базовые воспроизводимые примеры регрессии, классификации, ансамблей, PCA и retrieval для LLM | scikit-learn, TF-IDF, pytest |
+| RAG Copilot для кредитного аналитика | Разработал end-to-end RAG Copilot для кредитного аналитика: обработка PDF/HTML, гибридный поиск и генерация структурированных ответов с цитатами | FAISS, BM25, RRF, Claude/Ollama, FastAPI, Streamlit, Docker |
 
 
 
