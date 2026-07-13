@@ -38,7 +38,7 @@ _03.2026 — настоящее время_
 **Основные:** Python · SQL · Pandas · NumPy · Matplotlib · Jupyter Notebook · Git  
 **ML/AI/LLM:** scikit-learn · XGBoost · CatBoost · imbalanced-learn · SciPy · statsmodels · pmdarima · PyTorch (inference) · MNE · pyEDFlib  
 **БД:** SQLite · PostgreSQL · MySQL  
-**Знаком:** ,Docker · MLflow · Airflow · PySpark, Tableau, Power BI, C++ · Kotlin · 1С · Bitrix24  
+**Знаком:** Docker · MLflow · Airflow · PySpark, Tableau, Power BI, C++ · Kotlin · 1С · Bitrix24  
 
 **GenAI и LLM:** OpenAI-compatible API · RAG · Embeddings · FAISS/ChromaDB · LangChain/LangGraph · FastAPI · Pydantic · pytest
 
