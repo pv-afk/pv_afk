@@ -1,0 +1,7 @@
+jupyter
+matplotlib
+matplotlib-venn
+numpy
+pandas
+seaborn
+
