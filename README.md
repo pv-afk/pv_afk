@@ -1,6 +1,6 @@
 # Привет! Я Павел Чиркин 👋
 
-### Data Analyst · ML/AI/LLM Engineer · Python-разработчик
+### Data Analyst,ML/AI/LLM Engineer,Python-разработчик
 
 Работаю на стыке **банковской аналитики, машинного обучения и Python-разработки**. 
 
@@ -35,10 +35,10 @@ _03.2026 — настоящее время_
 
 ## Технологии
 
-**Основные:** Python · Pandas · NumPy · Matplotlib · Jupyter Notebook, MS Office
-**ML/AI/LLM:** scikit-learn · XGBoost · CatBoost · imbalanced-learn · SciPy · statsmodels · pmdarima · PyTorch (inference) · MNE · pyEDFlib  
-**БД:** SQLite · PostgreSQL · MySQL  
-**Знаком:** Docker · MLflow · Airflow · PySpark, Tableau, Power BI, C++ · Kotlin, 1С, Bitrix24, FastAPI, Streamlit, Pydantic, FAISS, BM25, Sentence Transformers, Ollama, Docker, pytest
+**Основные:** Python,Pandas,NumPy,Matplotlib,Jupyter Notebook, MS Office
+**ML/AI/LLM:** scikit-learn,XGBoost,CatBoost,imbalanced-learn,SciPy,statsmodels,pmdarima,PyTorch (inference),MNE,pyEDFlib  
+**БД:** SQLite,PostgreSQL,MySQL  
+**Знаком:** Docker,MLflow,Airflow,PySpark, Tableau, Power BI, C++,Kotlin, 1С, Bitrix24, FastAPI, Streamlit, Pydantic, FAISS, BM25, Sentence Transformers, Ollama, Docker, pytest
 
 ## Проекты
 
