@@ -1,0 +1,252 @@
+[
+  {
+    "cuisine": "italian",
+    "ingredients": [
+      "tomato",
+      "basil",
+      "olive oil",
+      "garlic",
+      "pasta"
+    ]
+  },
+  {
+    "cuisine": "italian",
+    "ingredients": [
+      "parmesan",
+      "risotto rice",
+      "mushroom",
+      "butter",
+      "onion"
+    ]
+  },
+  {
+    "cuisine": "italian",
+    "ingredients": [
+      "mozzarella",
+      "tomato",
+      "basil",
+      "flour",
+      "olive oil"
+    ]
+  },
+  {
+    "cuisine": "italian",
+    "ingredients": [
+      "pasta",
+      "egg",
+      "parmesan",
+      "bacon",
+      "black pepper"
+    ]
+  },
+  {
+    "cuisine": "italian",
+    "ingredients": [
+      "tomato",
+      "oregano",
+      "garlic",
+      "beef",
+      "pasta"
+    ]
+  },
+  {
+    "cuisine": "mexican",
+    "ingredients": [
+      "corn tortilla",
+      "beans",
+      "chili",
+      "lime",
+      "avocado"
+    ]
+  },
+  {
+    "cuisine": "mexican",
+    "ingredients": [
+      "tomato",
+      "cilantro",
+      "jalapeno",
+      "onion",
+      "lime"
+    ]
+  },
+  {
+    "cuisine": "mexican",
+    "ingredients": [
+      "chicken",
+      "corn tortilla",
+      "cheese",
+      "beans",
+      "chili"
+    ]
+  },
+  {
+    "cuisine": "mexican",
+    "ingredients": [
+      "avocado",
+      "lime",
+      "cilantro",
+      "onion",
+      "tomato"
+    ]
+  },
+  {
+    "cuisine": "mexican",
+    "ingredients": [
+      "beef",
+      "cumin",
+      "chili",
+      "beans",
+      "corn"
+    ]
+  },
+  {
+    "cuisine": "indian",
+    "ingredients": [
+      "chicken",
+      "curry",
+      "cumin",
+      "ginger",
+      "yogurt"
+    ]
+  },
+  {
+    "cuisine": "indian",
+    "ingredients": [
+      "lentils",
+      "turmeric",
+      "cumin",
+      "onion",
+      "garlic"
+    ]
+  },
+  {
+    "cuisine": "indian",
+    "ingredients": [
+      "rice",
+      "cardamom",
+      "cinnamon",
+      "saffron",
+      "chicken"
+    ]
+  },
+  {
+    "cuisine": "indian",
+    "ingredients": [
+      "paneer",
+      "tomato",
+      "cream",
+      "garam masala",
+      "ginger"
+    ]
+  },
+  {
+    "cuisine": "indian",
+    "ingredients": [
+      "chickpeas",
+      "coriander",
+      "turmeric",
+      "chili",
+      "onion"
+    ]
+  },
+  {
+    "cuisine": "japanese",
+    "ingredients": [
+      "rice",
+      "salmon",
+      "nori",
+      "soy sauce",
+      "wasabi"
+    ]
+  },
+  {
+    "cuisine": "japanese",
+    "ingredients": [
+      "miso",
+      "tofu",
+      "seaweed",
+      "dashi",
+      "green onion"
+    ]
+  },
+  {
+    "cuisine": "japanese",
+    "ingredients": [
+      "noodles",
+      "soy sauce",
+      "egg",
+      "pork",
+      "green onion"
+    ]
+  },
+  {
+    "cuisine": "japanese",
+    "ingredients": [
+      "rice",
+      "tuna",
+      "nori",
+      "sesame",
+      "soy sauce"
+    ]
+  },
+  {
+    "cuisine": "japanese",
+    "ingredients": [
+      "chicken",
+      "teriyaki",
+      "ginger",
+      "rice",
+      "sesame"
+    ]
+  },
+  {
+    "cuisine": "french",
+    "ingredients": [
+      "butter",
+      "flour",
+      "egg",
+      "milk",
+      "vanilla"
+    ]
+  },
+  {
+    "cuisine": "french",
+    "ingredients": [
+      "beef",
+      "red wine",
+      "carrot",
+      "onion",
+      "thyme"
+    ]
+  },
+  {
+    "cuisine": "french",
+    "ingredients": [
+      "potato",
+      "cream",
+      "cheese",
+      "garlic",
+      "butter"
+    ]
+  },
+  {
+    "cuisine": "french",
+    "ingredients": [
+      "mushroom",
+      "butter",
+      "cream",
+      "thyme",
+      "onion"
+    ]
+  },
+  {
+    "cuisine": "french",
+    "ingredients": [
+      "chicken",
+      "mustard",
+      "cream",
+      "white wine",
+      "tarragon"
+    ]
+  }
+]
