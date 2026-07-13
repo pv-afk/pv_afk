@@ -36,10 +36,10 @@ _03.2026 — настоящее время_
 ## Технологии
 
 **Основные:** Python · SQL · Pandas · NumPy · Matplotlib · Jupyter Notebook · Git  
-**Машинное обучение и AI:** scikit-learn · XGBoost · CatBoost · imbalanced-learn · SciPy · statsmodels · pmdarima · PyTorch (inference) · MNE · pyEDFlib  
-**Базы данных и разработка:** SQLite · PostgreSQL · MySQL · asyncio · Aiogram  
-**Data Engineering и инструменты:** Docker · MLflow · Airflow · PySpark  
-**Также знаком:** C++ · Kotlin · 1С · Bitrix24  
+**ML/AI/LLM:** scikit-learn · XGBoost · CatBoost · imbalanced-learn · SciPy · statsmodels · pmdarima · PyTorch (inference) · MNE · pyEDFlib  
+**БД:** SQLite · PostgreSQL · MySQL  
+**Знаком:** ,Docker · MLflow · Airflow · PySpark, Tableau, Power BI, C++ · Kotlin · 1С · Bitrix24  
+
 **GenAI и LLM:** OpenAI-compatible API · RAG · Embeddings · FAISS/ChromaDB · LangChain/LangGraph · FastAPI · Pydantic · pytest
 
 
