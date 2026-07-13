@@ -35,18 +35,5 @@ Python, pandas, Matplotlib, seaborn, SciPy, statsmodels, pmdarima, Jupyter Noteb
 - `average_salary_rus.ipynb` — исследование, моделирование и визуализация;
 - `salary.csv` — исходный временной ряд.
 
-## Запуск
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-jupyter lab average_salary_rus.ipynb
-```
-
-Запускайте ячейки сверху вниз: ноутбук ожидает `salary.csv` в текущем каталоге.
-
-## Практическая ценность
-
-Подход применим к бюджетированию фонда оплаты труда, оценке будущих кадровых расходов и анализу сезонности экономических показателей. Прогноз является аналитическим результатом на исторических данных и не должен использоваться как гарантированное значение будущей зарплаты.
 
