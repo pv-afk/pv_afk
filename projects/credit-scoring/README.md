@@ -36,7 +36,5 @@ Python, pandas, NumPy, seaborn, scikit-learn, imbalanced-learn, XGBoost, Jupyter
 - `credit_risk_file_1.csv`, `credit_risk_file_2.csv` — исходные таблицы.
 
 
-```
-
 
 
