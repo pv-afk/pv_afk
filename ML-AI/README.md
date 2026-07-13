@@ -1,4 +1,4 @@
-# ML/AI Engineer Foundations
+# ML/AI
 
 Небольшой практический набор базовых задач для подготовки к junior-позициям ML/AI/LLM Engineer. Материалы организованы как Python-проект: каждая тема вынесена в отдельный модуль, все эксперименты воспроизводимы, а основные сценарии покрыты тестами.
 
@@ -19,7 +19,7 @@
 ## Структура
 
 ```text
-ml-ai-engineer-foundations/
+ML-AI/
 ├── src/
 │   ├── regression.py
 │   ├── classification.py
@@ -71,4 +71,3 @@ pytest
 - заменить TF-IDF на sentence embeddings и подключить векторную базу;
 - обернуть retrieval-модуль в FastAPI;
 - добавить Docker и CI-проверку тестов.
-

@@ -52,7 +52,7 @@ _03.2026 — настоящее время_
 | [Цифровая зрелость и ИТ-стратегия](projects/it-strategy/) | Оценка зрелости подразделений и формирование инвестиционных приоритетов | pandas, seaborn |
 | [Прогнозирование затрат](projects/cost-prediction/) | Анализ исполнения ИТ-бюджета и прогноз расходов статистическими и ML-моделями | statsmodels, scikit-learn, XGBoost |
 | [Анализ аптечных товаров](projects/pharmacy-analysis/) | Сравнение цен и сопоставление товаров параметрическим методом и N-граммами | pandas, seaborn, matplotlib-venn |
-| [ML/AI Engineer Foundations](projects/ml-ai-engineer-foundations/) | Базовые воспроизводимые примеры регрессии, классификации, ансамблей, PCA и retrieval для LLM | scikit-learn, TF-IDF, pytest |
+| [ML/AI](ML-AI/) | Базовые воспроизводимые примеры регрессии, классификации, ансамблей, PCA и retrieval для LLM | scikit-learn, TF-IDF, pytest |
 
 
 
