@@ -32,12 +32,7 @@
 
 Python, pandas, NumPy, Matplotlib, seaborn, SciPy, statsmodels, pmdarima, scikit-learn, XGBoost, Jupyter Notebook.
 
-## Структура
 
-- `predict_cost.ipynb` — полный анализ и модели;
-- `predict_cost.html` — статическая версия ноутбука;
-- `it_projects_budget_data.csv` — исходные данные;
-- `ПРАКТИЧЕCКАЯ РАБОТА_1.pdf` — оформленный отчёт.
 
 
 
