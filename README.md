@@ -1,6 +1,6 @@
 # Привет! Я Павел Чиркин 👋
 
-### Data Analyst · ML Engineer · Python-разработчик
+### Data Analyst · ML/AI/LLM Engineer · Python-разработчик, 
 
 Работаю на стыке **банковской аналитики, машинного обучения и Python-разработки**. 
 
