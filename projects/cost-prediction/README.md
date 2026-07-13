@@ -39,16 +39,5 @@ Python, pandas, NumPy, Matplotlib, seaborn, SciPy, statsmodels, pmdarima, scikit
 - `it_projects_budget_data.csv` — исходные данные;
 - `ПРАКТИЧЕCКАЯ РАБОТА_1.pdf` — оформленный отчёт.
 
-## Запуск
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-jupyter lab predict_cost.ipynb
-```
-
-## Практическая ценность и ограничения
-
-Результаты помогают планировать ИТ-бюджет, находить систематический перерасход и сравнивать сценарии. Небольшой объём выборки и возможные структурные изменения требуют регулярного переобучения и проверки прогноза на новых данных.
 
