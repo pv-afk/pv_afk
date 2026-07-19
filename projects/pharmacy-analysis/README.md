@@ -40,14 +40,7 @@ N-граммный подход сравнивает множества фраг
 
 Python, pandas, NumPy, Matplotlib, seaborn, matplotlib-venn, регулярные выражения, Jupyter Notebook.
 
-## Структура
 
-- `pharmacy_analysis.ipynb` — анализ, визуализации и эксперименты по сопоставлению;
-- `pharmacy1.csv`, `pharmacy2.csv`, `pharmacy3.csv` — исходные прайс-листы;
-- `requirements.txt` — зависимости проекта.
-
-r lab pharmacy_analysis.ipynb
-```
 
 
 
