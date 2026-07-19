@@ -32,21 +32,6 @@
 - 20% — Extra-Trees LightGBM;
 - 30% — CatBoost.
 
-## Файлы
 
-- `lead_prioritization_solution_v2.ipynb` — основной notebook с описанием подхода и кодом;
-- `solution_v2.py` — запуск улучшенного решения;
-- `solution.py` — функции исходного ансамбля, которые использует версия v2;
-- `submission_v2.csv` — готовый файл предсказаний;
-- `requirements.txt` — зависимости проекта.
 
-Исходные `train.csv`, `test.csv` и `events.csv` не публикуются. Для запуска их нужно положить в каталог `data`.
 
-## Запуск
-
-```bash
-python -m pip install -r requirements.txt
-python solution_v2.py --data-dir data --output submission_v2.csv
-```
-
-Файл результата содержит ровно две колонки: `lead_id` и `score`.
