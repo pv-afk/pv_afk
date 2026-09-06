@@ -33,11 +33,10 @@ _03.2026 — настоящее время_
 - Интеграция, и адаптация PyTorch-модели.
 
 ## Технологии
-
-**Основные:** Python,Pandas,NumPy,Matplotlib,Jupyter Notebook, MS Office  
-**ML/AI/LLM:** scikit-learn,XGBoost,CatBoost,imbalanced-learn,SciPy,statsmodels,pmdarima,PyTorch (inference),MNE,pyEDFlib  
+ 
+**ML/AI/LLM:** Python,Jupyter Notebook,Pandas,NumPy,Matplotlib,scikit-learn,XGBoost,CatBoost,imbalanced-learn,SciPy,statsmodels,pmdarima,PyTorch (inference),MNE,pyEDFlib  
 **БД:** SQLite,PostgreSQL,MySQL  
-**Знаком:** Docker,MLflow,Airflow,PySpark, Tableau, Power BI, C++,Kotlin, 1С, Bitrix24, FastAPI, Streamlit, Pydantic, FAISS, BM25, Sentence Transformers, Ollama, Docker, pytest
+**Знаком:** MS Office,Docker,MLflow,Airflow,PySpark, Tableau, Power BI, C++,Kotlin, 1С, Bitrix24, FastAPI, Streamlit, Pydantic, FAISS, BM25, Sentence Transformers, Ollama, Docker, pytest
 
 ## Проекты
 
